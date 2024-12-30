@@ -1,6 +1,10 @@
 # Pneumonia-Detection-through-Chest-X-rays-using-Deep-Learning
 
 This project leverages **Deep Learning** technologies to detect pneumonia from chest X-ray images. Using models like **CNN, ResNet50, InceptionV3, CheXNet**, and **ensemble learning**, the system provides a reliable diagnostic tool for healthcare professionals. With **Explainable AI (XAI)** methods such as **SHAP** and **LIME**, the project ensures interpretability and transparency in predictions, making it highly suitable for clinical applications.
+Pneumonia is a lung infection causing inflamed air sacs filled with fluid or pus.​
+Caused by germs like bacteria, viruses, or fungi, which enter through the air or spread from other infections.​
+
+ Germs multiply in the lungs, causing inflammation and reducing oxygen flow to the blood.
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/f7515845-fbbc-494c-8e77-8bd969a9006c" />
 
 <img width="287" alt="image" src="https://github.com/user-attachments/assets/36afdd11-0f60-4007-9120-abbceda087c0" />
@@ -85,6 +89,8 @@ Combined predictions from **CNN** and **ResNet50** using weighted voting, improv
 Transparency is essential in medical AI. This project uses:
 - **SHAP (SHapley Additive exPlanations):** Highlights image regions influencing the model’s decision (red for pneumonia, blue for normal).
 - **LIME (Local Interpretable Model-agnostic Explanations):** Highlights critical regions responsible for predictions using interpretable superpixels.
+
+<img width="377" alt="image" src="https://github.com/user-attachments/assets/1cdd42c6-1953-4a92-9c61-746d4a2d68a4" />
 
 These tools provide interpretability and build trust in AI systems.
 
