@@ -1,6 +1,11 @@
 # Pneumonia-Detection-through-Chest-X-rays-using-Deep-Learning
 
 This project leverages **Deep Learning** technologies to detect pneumonia from chest X-ray images. Using models like **CNN, ResNet50, InceptionV3, CheXNet**, and **ensemble learning**, the system provides a reliable diagnostic tool for healthcare professionals. With **Explainable AI (XAI)** methods such as **SHAP** and **LIME**, the project ensures interpretability and transparency in predictions, making it highly suitable for clinical applications.
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/f7515845-fbbc-494c-8e77-8bd969a9006c" />
+
+<img width="287" alt="image" src="https://github.com/user-attachments/assets/36afdd11-0f60-4007-9120-abbceda087c0" />
+
+<img width="214" alt="image" src="https://github.com/user-attachments/assets/1a04b315-5ffb-44c9-865d-7580815f49a6" />
 
 ---
 
